@@ -6,7 +6,6 @@ const Product = ({ product, basket, setBasket }) => {
   const addBasket = () => {
 
     const checkBasket = basket.find(item => item.id === product.id)
-    setBasket([...basket, product])
 
     if (checkBasket) {
       checkBasket.amount += 1
