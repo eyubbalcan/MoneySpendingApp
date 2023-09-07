@@ -1,0 +1,24 @@
+[
+
+    {
+        "id" : 1,
+        "title" : "İphone",
+        "price" : 5
+
+    },
+
+    {
+        "id" : 2,
+        "title" : "Mac",
+        "price" : 20
+
+    },
+
+    {
+        "id" : 3,
+        "title" : "Mercedes",
+        "price" : 10
+
+    }
+]
+
