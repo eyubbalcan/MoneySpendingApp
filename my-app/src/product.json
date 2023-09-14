@@ -3,7 +3,8 @@
     {
         "id" : 1,
         "title" : "İphone",
-        "price" : 5
+        "price" : 5,
+        "image" : "https://www.yurtgazetesi.com.tr/d/news/218952.jpg"
 
     },
 
@@ -17,6 +18,13 @@
     {
         "id" : 3,
         "title" : "Mercedes",
+        "price" : 10
+
+    },
+    
+    {
+        "id" : 4,
+        "title" : "Volvo",
         "price" : 10
 
     }
