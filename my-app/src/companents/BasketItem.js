@@ -1,11 +1,23 @@
-import React from "react";
+import { useState } from "react";
 
-const BasketItem = ({ product, item }) => {
+function BasketItem({ item, product }) {
   return (
-    <div>
-      {product.title} x {item.amount}
-    </div>
+    <>
+      <li className="basket-item">
+        {product.title} <span>x {item.amount}</span>
+      </li>
+      <style jsx>{`
+        .basket-item {
+          padding-bottom: 10px;
+          font-size: 17px;
+        }
+
+        .basket-item span {
+          color: #999;
+        }
+      `}</style>
+    </>
   );
-};
+}
 
 export default BasketItem;

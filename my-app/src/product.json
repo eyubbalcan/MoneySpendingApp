@@ -2,31 +2,108 @@
 
     {
         "id" : 1,
-        "title" : "İphone",
-        "price" : 5,
-        "image" : "https://www.yurtgazetesi.com.tr/d/news/218952.jpg"
+        "title" : "Araba",
+        "price" : 50000,
+        "image" : "https://render.fineartamerica.com/images/rendered/square-product/small/images/artworkimages/mediumlarge/1/monalisa-with-white-background-sushil-deokar.jpg"
 
     },
 
     {
         "id" : 2,
-        "title" : "Mac",
-        "price" : 20
+        "title" : "Motor",
+        "price" : 120000,
+        "image" : "https://i.ibb.co/vPpNrdb/Ekran-Resmi-2021-04-16-13-38-07.png"
 
     },
 
     {
         "id" : 3,
         "title" : "Mercedes",
-        "price" : 10
+        "price" :1,
+        "image" : "https://iasbh.tmgrup.com.tr/802b79/0/0/0/0/0/0?u=http://i.sabah.com.tr/sb/galeri/dunya/1-tlnin-diger-ulke-paralari-karsisindaki-degeri/1.jpg"
+
+
 
     },
     
     {
         "id" : 4,
-        "title" : "Volvo",
-        "price" : 10
+        "title" : "İphone",
+        "price" : 2756,
+        "image" : "https://iasbh.tmgrup.com.tr/802b79/0/0/0/0/0/0?u=http://i.sabah.com.tr/sb/galeri/dunya/1-tlnin-diger-ulke-paralari-karsisindaki-degeri/1.jpg"
+
+
+
+    },
+    {
+        "id" : 5,
+        "title" : "Araba",
+        "price" : 40000,
+        "image" : "https://render.fineartamerica.com/images/rendered/square-product/small/images/artworkimages/mediumlarge/1/monalisa-with-white-background-sushil-deokar.jpg"
+
+    },
+
+    {
+        "id" : 6,
+        "title" : "Motor",
+        "price" : 1200,
+        "image" : "https://i.ibb.co/vPpNrdb/Ekran-Resmi-2021-04-16-13-38-07.png"
+
+    },
+
+    {
+        "id" : 7,
+        "title" : "Mercedes",
+        "price" :1,
+        "image" : "https://iasbh.tmgrup.com.tr/802b79/0/0/0/0/0/0?u=http://i.sabah.com.tr/sb/galeri/dunya/1-tlnin-diger-ulke-paralari-karsisindaki-degeri/1.jpg"
+
+
+
+    },
+    
+    {
+        "id" : 8,
+        "title" : "İphone",
+        "price" : 2756,
+        "image" : "https://iasbh.tmgrup.com.tr/802b79/0/0/0/0/0/0?u=http://i.sabah.com.tr/sb/galeri/dunya/1-tlnin-diger-ulke-paralari-karsisindaki-degeri/1.jpg"
+
+
+
+    },
+    {
+        "id" : 9,
+        "title" : "Araba",
+        "price" : 50000,
+        "image" : "https://render.fineartamerica.com/images/rendered/square-product/small/images/artworkimages/mediumlarge/1/monalisa-with-white-background-sushil-deokar.jpg"
+
+    },
+
+    {
+        "id" : 10,
+        "title" : "Motor",
+        "price" : 1200,
+        "image" : "https://i.ibb.co/vPpNrdb/Ekran-Resmi-2021-04-16-13-38-07.png"
+
+    },
+
+    {
+        "id" : 11,
+        "title" : "Mercedes",
+        "price" :1,
+        "image" : "https://iasbh.tmgrup.com.tr/802b79/0/0/0/0/0/0?u=http://i.sabah.com.tr/sb/galeri/dunya/1-tlnin-diger-ulke-paralari-karsisindaki-degeri/1.jpg"
+
+
+
+    },
+    
+    {
+        "id" : 12,
+        "title" : "İphone",
+        "price" : 2756,
+        "image" : "https://iasbh.tmgrup.com.tr/802b79/0/0/0/0/0/0?u=http://i.sabah.com.tr/sb/galeri/dunya/1-tlnin-diger-ulke-paralari-karsisindaki-degeri/1.jpg"
+
 
     }
 ]
+
 

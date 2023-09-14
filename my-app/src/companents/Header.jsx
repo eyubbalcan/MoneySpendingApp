@@ -5,10 +5,10 @@ const Header = ({ money, total }) => {
   return (
     <>
       {total > 0 && money - total !== 0 && (
-        <div className="header">Harcayacak <span>${moneyFormat(money - total)}</span> paranız kaldı. </div>
+        <div className="header">Harcanacak <span>${moneyFormat(money - total)}</span> paranız kaldı. </div>
       )}
       {total === 0 && (
-        <div className="header">Harcayacak <span>${moneyFormat(money - total)}</span> paranız kaldı. </div>
+        <div className="header">Harcanacak <span>${moneyFormat(money - total)}</span> paranız kaldı. </div>
       )}
       {money - total === 0 && <div className="header">Paranız bitti. </div>}
       <style>{`
